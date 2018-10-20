@@ -1,0 +1,1 @@
+kolhoz1,-1122289213,6,12,6,118,4,27,128,12,223,2,11,-1,false,1,1,1,1,4,2,3,3,-1,-1,-1,0,3,-1,-1,-1,0,10,false,false,false,false,83,254,66,3, T0XIN  ,0,-1,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,false,3,154,229,26,30,33,-1,-1,false,false,false,false,false,false,false,false,false,true,false,false,false,false

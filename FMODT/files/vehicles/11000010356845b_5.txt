@@ -1,0 +1,1 @@
+Maverick,-1660661558,1,11,6,0,5,156,255,255,255,0,-1,-1,true,false,false,false,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,false,false,255,0,255,4,05QSR868,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,18,17,16,8,8,8,-1,-1,true,true,false,false,false,false,true,false,false,true,true,false,false,false

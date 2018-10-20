@@ -1,0 +1,74 @@
+{dic = "", anim = "", label = "", category = ""},
+
+
+    WarMenu.CreateSubMenu('idles', 'list', 'Рутина')
+    WarMenu.CreateSubMenu('stoiki', 'idles', 'Стойки зацикленные')
+    WarMenu.CreateSubMenu('actns0', 'idles', 'Действия с прдметами')
+	WarMenu.CreateSubMenu('actns', 'idles', 'Действия зацикленные')
+	WarMenu.CreateSubMenu('actns2', 'idles', 'Действия прерывистые')
+	WarMenu.CreateSubMenu('avoid', 'idles', 'Испуг')
+	WarMenu.CreateSubMenu('dead', 'idles', 'Без сознания - очнуться')
+	WarMenu.CreateSubMenu('weapact', 'idles', 'Действия с оружием')
+	WarMenu.CreateSubMenu('dance', 'idles', 'Танцы')
+	WarMenu.CreateSubMenu('all', 'idles', 'Трюки')
+    
+	WarMenu.CreateSubMenu('gest', 'list', 'Жесты при разговоре')
+	WarMenu.CreateSubMenu('usual', 'gest', 'Обычные')
+	WarMenu.CreateSubMenu('happy', 'gest', 'Радость')
+	WarMenu.CreateSubMenu('angry', 'gest', 'Злость и раздражение')
+	WarMenu.CreateSubMenu('sad', 'gest', 'Печаль и скука')
+	WarMenu.CreateSubMenu('gangsta', 'gest', 'Гэнгста')
+	WarMenu.CreateSubMenu('maner', 'gest', 'Манерные')
+	WarMenu.CreateSubMenu('car', 'gest', 'В машине')
+	WarMenu.CreateSubMenu('walkact', 'gest', 'При ходьбе')
+	
+	WarMenu.CreateSubMenu('sit', 'list', 'Сидячие и лежачие')
+	WarMenu.CreateSubMenu('sitchair', 'sit', 'На стуле')
+	WarMenu.CreateSubMenu('sitchprop', 'sit', 'С объектом')
+	WarMenu.CreateSubMenu('sittable', 'sit', 'За столом')
+	WarMenu.CreateSubMenu('sitwall', 'sit', 'На выступе')
+	WarMenu.CreateSubMenu('lieflor', 'sit', 'Лежать на полу')
+	WarMenu.CreateSubMenu('liebed', 'sit', 'Лежать на чем-то')
+	
+	WarMenu.CreateSubMenu('combat', 'list', 'Бой')
+	WarMenu.CreateSubMenu('hideshot', 'combat', 'Укрытия под обстрелом')
+	WarMenu.CreateSubMenu('kill', 'combat', 'Смерть и ранения')
+	WarMenu.CreateSubMenu('fight', 'combat', 'Ближний бой')
+	
+	WarMenu.CreateSubMenu('others', 'list', 'Другое')
+	WarMenu.CreateSubMenu('barmen', 'others', 'Бармен')
+	WarMenu.CreateSubMenu('mecanic', 'others', 'Механик')
+	WarMenu.CreateSubMenu('cop', 'others', 'Полицейский')
+	WarMenu.CreateSubMenu('different', 'others', 'Разное')
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+	
+	
+	

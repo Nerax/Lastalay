@@ -1,0 +1,1 @@
+Nightshade,-1943285540,6,118,6,158,8,4,140,7,215,7,3,-1,false,1,1,1,1,4,2,3,1,2,0,0,0,0,-1,-1,2,3,16,false,false,false,false,254,68,50,5, T0XIN  ,-1,-1,3,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,false,false,26,30,33,71,57,27,-1,-1,false,false,false,false,false,false,false,false,false,false,false,false,false,false
