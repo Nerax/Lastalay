@@ -1,0 +1,124 @@
+.color-0{color: #ff4444;}
+.color-1{color: #ff4444;}
+.color-2{color: #99cc00;}
+.color-3{color: #ffbb33;}
+.color-4{color: #0099cc;}
+.color-5{color: #33b5e5;}
+.color-6{color: #aa66cc;}
+.color-8{color: #cc0000;}
+.color-9{color: #cc0068;}
+
+* {
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.no-grow {
+  flex-grow: 0;
+}
+
+em {
+  font-style: normal;
+}
+
+#app {
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+  text-shadow: 1px 1px 2px #333;
+}
+
+.chat-window {          /* родительский элемент окна чата */
+  position: absolute;
+  top: 40vh;
+  left: 70vw;
+  width: 38vw;
+  height: 22.2vh;
+
+  background-color: rgba(52, 73, 94, 0.0);
+  -webkit-animation-duration: 3s;
+}
+
+
+.chat-messages {        /* чат */
+  position: relative;
+  text-align: right;    /* выравнивание по правому краю */
+  height: 17vh;
+  font-size: 1.2vw;
+  margin: 1vh;
+
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+
+.chat-input {           /* строка ввода текста */
+  font-size: 1.2vw;
+  position: absolute;
+
+  top: 58.5vh;
+  left: 69.5vw;
+  width: 30vw;
+
+  box-sizing: border-box;
+}
+
+.prefix {              /* треугольная приставка */
+  position: absolute;
+  margin-top: 0.18vh;
+  left: 0.36vh;
+}
+
+textarea {             /* область ввода текста */
+  font-size: 1.1vw;
+  text-shadow: 1px 1px 2px #333;
+  display: block;
+  box-sizing: border-box;
+  padding: 0.5vh;
+  padding-left: 1.55vw;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 30vw;
+  border-width: 3;
+  height: 3.1vh;
+  overflow: hidden;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+.msg {
+  margin-bottom: 3px;
+}
+
+.multiline {
+  margin-left: 1.5rem;
+  text-indent: -1.5rem;
+  white-space: normal;
+}
+
+.suggestions {
+  list-style-type: none;
+  padding: 0.46vh;
+  padding-left: 1.4vw;
+  font-size: 1.1rem;
+  box-sizing: border-box;
+  color: white;
+  background-color: rgba(44, 62, 80, 1.0);
+  width: 100%;
+}
+
+.help {
+  color: #b0bbbd;
+}
+
+.disabled {
+  color: #b0bbbd;
+}
+
+.suggestion {
+  margin-bottom: 0.46vh;
+}
